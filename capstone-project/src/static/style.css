@@ -1,0 +1,87 @@
+.logo-container {
+    background: linear-gradient(135deg, #FF6B00, #FFB800);
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 2rem;
+    box-shadow: 0 6px 12px rgba(255, 107, 0, 0.3);
+    border: 2px solid #FF6B00;
+}
+
+.logo-title {
+    color: #1E1E1E;
+    font-family: 'Arial Black', sans-serif;
+    margin: 0;
+    font-size: 2.8rem;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.2);
+    letter-spacing: 2px;
+}
+
+.logo-subtitle {
+    color: #1E1E1E;
+    font-family: Arial, sans-serif;
+    margin: 10px 0 0 0;
+    font-size: 1.3rem;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.2);
+    font-weight: 600;
+}
+
+.main-content {
+    background-color: #1E1E1E;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 107, 0, 0.2);
+    margin-top: 1rem;
+    border: 1px solid #FF6B00;
+}
+
+/* Add these styles for Streamlit dark theme */
+.stApp {
+    background-color: #1E1E1E !important;
+    color: #FFFFFF !important;
+}
+
+.stTextInput > div > div > input {
+    background-color: #2D2D2D !important;
+    color: #FFFFFF !important;
+    border: 1px solid #FF6B00 !important;
+}
+
+.stSelectbox > div > div {
+    background-color: #2D2D2D !important;
+    color: #FFFFFF !important;
+    border: 1px solid #FF6B00 !important;
+}
+
+.stDataFrame {
+    background-color: #2D2D2D !important;
+    color: #FFFFFF !important;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+    width: 10px;
+    background: #2D2D2D;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FF6B00;
+    border-radius: 5px;
+}
+
+/* Plot customization */
+.js-plotly-plot {
+    background-color: #2D2D2D !important;
+}
+
+.js-plotly-plot .plot-container {
+    color: #FFFFFF !important;
+}
+
+/* Metric cards */
+[data-testid="stMetricValue"] {
+    background: linear-gradient(45deg, #FF6B00, #FFB800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
