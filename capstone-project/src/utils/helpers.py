@@ -71,18 +71,26 @@ def process_dataframe_with_currency_conversion(df):
     for index, row in df.iterrows():
         try:
             # Process 'Loan_Amount'
-            if '$' in str(row['Loan_Amount']):
-                # Remove $ and convert to float with two decimal points
-                loan_amount = float(str(row['Loan_Amount']).replace('$', '').strip())
+            loan_str = str(row['Loan_Amount'])
+            if '$' in loan_str:
+                # Handle USD values
+                loan_amount = float(loan_str.replace('$', '').strip())
                 df.at[index, 'Loan_Amount'] = round(loan_amount, 2)
             else:
-                # Clean and convert 'Loan_Amount' to float
-                loan_amount = float(''.join(filter(str.isdigit, str(row['Loan_Amount']))))
+                # Handle EUR values
+                # Remove € symbol and any other non-numeric characters except dot
+                loan_str = ''.join(c for c in loan_str if c.isdigit() or c == '.')
+                # Convert to float and round to 2 decimal places
+                loan_amount = round(float(loan_str), 2)
                 df.at[index, 'Loan_Amount'] = round(convert_to_usd(loan_amount, 'EUR'), 2)
 
             # Process 'Income'
-            income = float(''.join(filter(str.isdigit, str(row['Income']))))
+            income_str = str(row['Income'])
+            # Remove € symbol and any other non-numeric characters except dot
+            income_str = ''.join(c for c in income_str if c.isdigit() or c == '.')
+            income = round(float(income_str), 2)
             df.at[index, 'Income'] = round(convert_to_usd(income, 'EUR'), 2)
+            
         except Exception as e:
             print(f"Error processing row {index}: {e}")
 

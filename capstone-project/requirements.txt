@@ -23,3 +23,6 @@ pandas==2.2.3
 forex-python==1.8
 requests==2.32.0
 dotenv==1.0.0
+streamlit==1.29.0
+python-dotenv==1.0.0
+plotly==5.18.0

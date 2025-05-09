@@ -1,0 +1,647 @@
+Age,Gender,Education_Level,Marital_Status,Income,Credit_Score,Loan_Purpose,Debt_to_Income_Ratio,Risk Rating,Loan_Amount,ID
+56,Non-Binary,Associate,Married,186997.18,634.0,Personal,0.234053231,2.0,109875.27,1
+46,Female,Master,Married,127662.58,520.0,Medical,0.502676104,1.0,4045.51,3
+32,Non-Binary,Bachelor,Not Married,82805.42,622.0,Home,0.737152449,1.0,60155.46,4
+60,Male,Master,Not Married,213432.72,302.0,Education,0.691575387,2.0,23781.89,5
+78,Non-Binary,Bachelor,Not Married,40564.41,339.0,Car,0.224618608,0.0,1986.95,7
+56,Male,Master,Married,46038.16,806.0,Debt Consolidation,0.169957201,1.0,87976.35,9
+75,Male,Bachelor,Not Married,93393.37,421.0,Personal,0.401890541,0.0,32580.93,10
+40,Female,Bachelor,Married,201658.38,395.0,Business,0.131849152,0.0,24397.38,12
+28,Non-Binary,Master,Married,166464.28,534.0,Medical,0.864519574,2.0,11366.34,14
+41,Non-Binary,PhD,Not Married,225929.89,361.0,Debt Consolidation,0.862906086,1.0,27353.13,15
+53,Male,Associate,Married,78966.55,647.0,Car,0.134480087,1.0,111534.42,17
+57,Other,Bachelor,Not Married,103493.94,423.0,Debt Consolidation,0.243275951,0.0,73984.7,18
+41,Non-Binary,Master,Married,109071.35,781.0,Medical,0.413774235,1.0,21968.02,19
+20,Female,Associate,Married,106859.57,616.0,Home,0.858223758,2.0,109173.14,20
+39,Other,Master,Not Married,208491.67,803.0,Car,0.212959251,2.0,8640.43,21
+47,Female,Associate,Not Married,218202.68,549.0,Home,0.720187631,1.0,12435.08,26
+55,Non-Binary,High School,Not Married,190806.44,613.0,Debt Consolidation,0.374072866,1.0,2161.12,27
+77,Non-Binary,Bachelor,Not Married,152985.91,728.0,Car,0.253612868,2.0,76477.16,29
+50,Male,Associate,Not Married,75461.89,613.0,Education,0.850451312,1.0,61090.34,31
+78,Non-Binary,Master,Not Married,46171.03,510.0,Business,0.746614569,1.0,10830.48,35
+76,Female,Associate,Married,108481.85,519.0,Home,0.384766219,2.0,34298.44,40
+45,Non-Binary,Master,Married,37272.43,700.0,Education,0.57717366,2.0,33241.29,42
+77,Male,Master,Married,39149.64,699.0,Medical,0.751507137,0.0,7095.63,43
+33,Male,PhD,Not Married,95347.49,789.0,Car,0.405698796,2.0,29038.69,44
+32,Other,Associate,Not Married,215473.59,784.0,Business,0.205814972,2.0,24775.01,45
+79,Female,High School,Not Married,159570.08,769.0,Home,0.257350558,2.0,61178.42,46
+68,Other,High School,Married,24813.44,353.0,Home,0.580756388,2.0,74978.48,50
+61,Female,PhD,Not Married,152923.42,827.0,Personal,0.656863889,1.0,48441.56,51
+20,Non-Binary,PhD,Not Married,170908.33,536.0,Business,0.475232598,0.0,70973.56,55
+24,Female,High School,Not Married,36338.39,694.0,Education,0.187890491,0.0,57761.11,58
+26,Female,Associate,Married,51829.78,635.0,Education,0.37434373,0.0,87505.67,60
+35,Non-Binary,PhD,Not Married,109113.54,477.0,Home,0.120278883,0.0,39373.82,62
+21,Female,Bachelor,Not Married,83123.03,695.0,Car,0.652037511,2.0,5865.69,63
+77,Male,High School,Married,140869.73,617.0,Business,0.144592683,2.0,45941.92,65
+31,Female,High School,Not Married,31691.64,668.0,Personal,0.587850209,1.0,79381.77,66
+26,Female,High School,Not Married,92972.63,804.0,Education,0.16446465,0.0,12632.68,69
+43,Female,High School,Not Married,171972.65,538.0,Education,0.217730601,0.0,87710.08,70
+45,Other,Bachelor,Not Married,110729.69,428.0,Home,0.104837635,1.0,52493.35,74
+77,Non-Binary,Associate,Married,79099.51,677.0,Medical,0.198597967,0.0,82040.73,76
+24,Non-Binary,Associate,Not Married,85430.12,736.0,Car,0.346143272,0.0,106560.15,77
+61,Non-Binary,Master,Not Married,184213.7,506.0,Debt Consolidation,0.840847648,2.0,23127.19,78
+78,Male,PhD,Married,114104.21,687.0,Home,0.229355643,2.0,87145.89,79
+64,Female,Associate,Married,191056.97,639.0,Medical,0.264635502,2.0,11082.88,81
+52,Female,Bachelor,Not Married,198248.71,639.0,Medical,0.693252887,1.0,75742.15,82
+34,Non-Binary,PhD,Not Married,110945.44,460.0,Education,0.807582982,0.0,20886.84,84
+67,Female,Master,Not Married,141892.79,691.0,Business,0.527647375,1.0,74513.23,86
+57,Other,PhD,Married,98704.15,833.0,Business,0.2563664,0.0,54541.88,87
+21,Other,Associate,Not Married,145755.84,369.0,Medical,0.23298349,2.0,97296.19,88
+19,Female,Associate,Not Married,167145.21,704.0,Business,0.833191321,0.0,92068.93,89
+79,Female,Master,Not Married,163628.97,816.0,Car,0.362270559,1.0,35220.04,90
+59,Female,Master,Married,110852.13,355.0,Debt Consolidation,0.371058786,1.0,66910.76,93
+21,Female,Bachelor,Not Married,51923.32,665.0,Debt Consolidation,0.861649957,1.0,94838.48,94
+46,Non-Binary,Bachelor,Married,93527.28,754.0,Home,0.577943394,1.0,69765.43,96
+35,Non-Binary,High School,Not Married,54351.73,403.0,Debt Consolidation,0.804716128,1.0,9454.85,97
+43,Non-Binary,High School,Married,27948.14,376.0,Car,0.139684727,1.0,77418.86,98
+51,Other,Master,Married,153088.43,557.0,Debt Consolidation,0.472029067,1.0,70047.33,100
+27,Male,Associate,Married,92448.05,563.0,Car,0.281582832,1.0,31266.57,101
+79,Female,Associate,Not Married,37416.56,630.0,Personal,0.69512415,2.0,27044.92,102
+53,Male,High School,Not Married,106574.65,481.0,Medical,0.835366425,0.0,102022.34,103
+31,Other,High School,Not Married,86433.77,849.0,Medical,0.439016096,1.0,89331.55,104
+48,Non-Binary,Master,Married,161319.52,326.0,Business,0.37370608,0.0,9788.55,105
+32,Female,Bachelor,Married,97357.75,598.0,Education,0.455881946,1.0,18654.82,107
+25,Non-Binary,High School,Not Married,67333.89,390.0,Personal,0.49123872,0.0,67049.54,108
+31,Female,Associate,Married,224951.44,779.0,Car,0.381319898,1.0,25868.01,109
+77,Male,Bachelor,Not Married,163602.2,750.0,Medical,0.555164387,1.0,30321.5,111
+74,Male,Master,Married,51505.57,664.0,Personal,0.70973967,1.0,41547.21,112
+79,Male,Bachelor,Married,122120.79,650.0,Medical,0.749445375,1.0,35325.16,113
+57,Other,Bachelor,Not Married,28375.67,699.0,Home,0.373479234,1.0,90733.21,114
+38,Female,High School,Married,126186.44,552.0,Car,0.446955465,1.0,86323.46,115
+33,Other,Master,Not Married,220035.8,758.0,Home,0.77877742,2.0,93331.33,116
+62,Male,Master,Not Married,101371.75,798.0,Car,0.390604281,2.0,16046.04,117
+41,Other,High School,Married,55490.71,465.0,Medical,0.69330183,2.0,15962.62,121
+43,Other,PhD,Married,27519.24,714.0,Education,0.74407785,2.0,69515.84,122
+42,Male,Associate,Not Married,177506.68,761.0,Debt Consolidation,0.776031719,1.0,26066.92,123
+77,Female,Bachelor,Not Married,116581.32,413.0,Home,0.41604267,0.0,5299.9,124
+77,Female,Master,Married,81936.84,732.0,Medical,0.141010767,0.0,74914.84,125
+46,Female,PhD,Married,86996.43,741.0,Personal,0.699170521,0.0,37893.06,129
+32,Non-Binary,Associate,Married,204560.69,654.0,Home,0.385585944,2.0,77873.99,130
+42,Non-Binary,High School,Married,224128.13,424.0,Personal,0.699495549,2.0,68026.74,133
+24,Non-Binary,Bachelor,Married,81765.06,437.0,Debt Consolidation,0.536556775,1.0,29103.94,134
+26,Non-Binary,PhD,Not Married,219445.99,638.0,Car,0.263251511,0.0,84533.04,135
+41,Male,Bachelor,Not Married,102451.36,836.0,Business,0.333528939,0.0,41532.34,136
+61,Non-Binary,High School,Married,92403.63,840.0,Personal,0.486080989,2.0,31147.8,138
+25,Other,Associate,Married,133544.48,682.0,Business,0.272825152,1.0,74794.38,139
+52,Other,Associate,Married,112880.72,510.0,Car,0.818364173,1.0,12229.73,145
+52,Other,Bachelor,Married,84615.52,839.0,Business,0.520039472,2.0,44428.11,146
+76,Other,Associate,Not Married,62571.71,614.0,Personal,0.301738302,2.0,2245.2,148
+22,Male,PhD,Married,34538.15,412.0,Car,0.457381175,0.0,9844.65,149
+59,Non-Binary,Associate,Not Married,92825.41,469.0,Home,0.198759893,2.0,25120.22,150
+24,Other,Bachelor,Not Married,141538.5,454.0,Education,0.293882956,0.0,9875.57,155
+26,Female,Associate,Married,51228.0,770.0,Business,0.630648568,2.0,3083.0,156
+50,Non-Binary,Master,Married,104968.04,724.0,Home,0.68249315,0.0,42246.97,160
+65,Male,Bachelor,Married,226141.01,810.0,Car,0.580201128,0.0,16937.46,161
+72,Male,Master,Not Married,202905.22,481.0,Personal,0.685000471,2.0,80921.57,162
+79,Other,Associate,Not Married,139268.78,363.0,Car,0.880328294,0.0,44748.88,164
+41,Female,High School,Married,149764.38,559.0,Business,0.558850624,1.0,20394.95,165
+52,Female,PhD,Not Married,103608.89,705.0,Medical,0.618771646,0.0,98148.73,167
+61,Male,High School,Married,30815.79,392.0,Car,0.154752567,1.0,73999.92,168
+57,Female,Master,Married,120065.26,729.0,Home,0.817917855,0.0,68238.0,169
+39,Male,Master,Not Married,133875.42,733.0,Debt Consolidation,0.195504809,0.0,85288.78,170
+44,Male,High School,Not Married,69351.26,703.0,Home,0.36227427,2.0,47050.8,171
+52,Male,Associate,Not Married,220038.14,733.0,Personal,0.752596305,1.0,12304.19,172
+52,Female,Associate,Not Married,170533.83,674.0,Education,0.414908416,2.0,18246.86,174
+54,Female,High School,Married,131902.9,358.0,Debt Consolidation,0.478748528,1.0,51743.45,175
+64,Female,Associate,Not Married,200787.89,342.0,Medical,0.783637915,1.0,18578.23,176
+31,Male,Bachelor,Married,49479.31,506.0,Debt Consolidation,0.372003509,0.0,99921.52,177
+22,Male,PhD,Not Married,185283.16,831.0,Education,0.72143875,2.0,7385.58,180
+43,Non-Binary,Associate,Not Married,79178.59,521.0,Debt Consolidation,0.778038106,2.0,90381.45,181
+72,Male,Master,Married,202245.35,465.0,Home,0.245454122,1.0,56419.78,182
+56,Male,Bachelor,Not Married,53192.58,483.0,Car,0.23239982,2.0,27165.68,184
+43,Other,Master,Not Married,143229.79,837.0,Personal,0.26939669,2.0,84072.8,189
+59,Female,Associate,Married,99555.02,449.0,Car,0.13319786,1.0,31958.62,190
+30,Non-Binary,PhD,Not Married,64331.64,328.0,Education,0.547795729,2.0,49102.61,192
+68,Other,Bachelor,Married,178649.61,595.0,Car,0.786347931,2.0,50810.22,193
+56,Male,Associate,Married,127377.63,738.0,Debt Consolidation,0.448317059,0.0,99601.15,195
+66,Female,PhD,Not Married,123499.34,443.0,Car,0.862496092,2.0,94180.25,196
+69,Other,Bachelor,Married,140885.93,818.0,Debt Consolidation,0.67539616,1.0,85207.44,197
+21,Male,High School,Married,106156.19,454.0,Education,0.30712342,0.0,13130.72,200
+47,Non-Binary,High School,Not Married,192100.03,480.0,Debt Consolidation,0.142261349,0.0,53747.52,201
+54,Male,High School,Not Married,179208.26,514.0,Education,0.680867881,2.0,29802.49,202
+40,Other,Bachelor,Not Married,140118.43,387.0,Education,0.197042398,1.0,36351.73,203
+56,Non-Binary,PhD,Not Married,218404.61,555.0,Car,0.342220103,1.0,15657.92,204
+62,Non-Binary,Associate,Not Married,63769.11,810.0,Business,0.525976726,1.0,7564.24,205
+32,Non-Binary,Master,Not Married,45102.02,372.0,Personal,0.55153327,0.0,63158.52,206
+46,Female,Bachelor,Not Married,112616.4,511.0,Education,0.233004264,2.0,89881.61,208
+53,Female,High School,Married,196080.64,533.0,Medical,0.403789924,0.0,74207.99,209
+30,Female,Bachelor,Not Married,205519.84,764.0,Business,0.593755382,0.0,93919.08,210
+49,Other,PhD,Not Married,35522.57,522.0,Debt Consolidation,0.875855092,0.0,36759.68,211
+76,Female,Associate,Not Married,114492.98,506.0,Personal,0.838083006,2.0,2269.34,213
+68,Other,Associate,Married,127205.12,665.0,Personal,0.709769647,1.0,80946.09,214
+19,Female,PhD,Married,26652.3,608.0,Debt Consolidation,0.633348522,2.0,97885.23,217
+59,Female,Bachelor,Not Married,120330.78,567.0,Car,0.598703653,0.0,81133.32,218
+70,Non-Binary,PhD,Not Married,50253.49,822.0,Education,0.367554022,1.0,6932.59,222
+23,Non-Binary,High School,Not Married,84014.31,397.0,Personal,0.515450154,2.0,22140.21,223
+45,Non-Binary,Bachelor,Married,96154.71,370.0,Education,0.258044725,2.0,96257.39,224
+45,Non-Binary,High School,Married,187376.12,663.0,Personal,0.744139518,1.0,105994.44,225
+61,Female,Bachelor,Not Married,79791.0,575.0,Debt Consolidation,0.248621564,1.0,39374.84,226
+61,Non-Binary,Master,Not Married,65862.87,349.0,Personal,0.167973032,1.0,91933.63,227
+37,Non-Binary,Bachelor,Married,218691.31,657.0,Education,0.448996821,2.0,42033.67,228
+47,Other,Bachelor,Married,24553.96,784.0,Home,0.626645952,1.0,42406.84,229
+79,Male,Associate,Not Married,226954.01,383.0,Business,0.45017346,0.0,76604.49,230
+72,Female,Master,Not Married,83036.8,355.0,Personal,0.377601868,2.0,12994.39,233
+56,Non-Binary,Associate,Not Married,193456.04,491.0,Debt Consolidation,0.501897456,2.0,36016.41,236
+50,Male,Associate,Not Married,51975.74,359.0,Medical,0.689705931,1.0,97387.19,238
+18,Non-Binary,Master,Married,176936.56,338.0,Car,0.129370355,2.0,105988.35,239
+44,Other,Master,Not Married,157516.9,348.0,Medical,0.369058715,2.0,3320.86,241
+79,Female,Master,Married,179533.29,719.0,Home,0.836428708,1.0,51308.71,242
+69,Male,Bachelor,Not Married,148320.22,335.0,Business,0.542251901,0.0,71955.66,244
+30,Male,Bachelor,Not Married,40873.84,400.0,Home,0.692530865,2.0,8118.77,245
+20,Female,Associate,Not Married,38631.71,815.0,Education,0.168322424,2.0,9884.54,247
+56,Female,PhD,Not Married,106147.76,522.0,Medical,0.877969112,2.0,23720.75,248
+25,Other,Master,Married,36249.57,465.0,Home,0.591348995,1.0,35626.17,250
+44,Male,Associate,Not Married,94129.61,682.0,Car,0.289287826,0.0,108970.03,251
+26,Male,High School,Married,45456.87,675.0,Business,0.486798468,2.0,49258.54,252
+54,Other,Associate,Married,216693.83,330.0,Home,0.159916674,1.0,38125.69,254
+50,Male,Master,Not Married,37540.29,674.0,Business,0.184928283,2.0,44033.14,255
+61,Non-Binary,PhD,Married,84049.11,395.0,Medical,0.255966617,1.0,4490.31,258
+32,Male,Master,Married,125197.76,752.0,Business,0.714997705,0.0,54030.35,260
+76,Female,Master,Not Married,185345.55,491.0,Home,0.149557215,0.0,107305.96,261
+49,Non-Binary,PhD,Not Married,37660.09,723.0,Medical,0.129168841,0.0,55488.58,264
+58,Female,Associate,Not Married,83174.15,537.0,Personal,0.767331287,1.0,48227.77,266
+69,Non-Binary,Associate,Not Married,70299.78,654.0,Education,0.194377987,0.0,38973.17,267
+66,Other,Master,Not Married,80250.38,411.0,Home,0.136121092,1.0,55550.2,268
+79,Other,PhD,Not Married,187180.77,745.0,Car,0.45031991,0.0,80864.07,269
+75,Other,High School,Not Married,105648.32,444.0,Personal,0.309926701,1.0,48613.17,271
+79,Male,Master,Not Married,120247.6,789.0,Business,0.459262811,2.0,76521.94,274
+56,Male,High School,Not Married,68999.1,738.0,Car,0.562090465,0.0,7029.35,275
+19,Female,Bachelor,Married,153819.83,405.0,Education,0.556725643,0.0,28134.24,276
+66,Female,Bachelor,Married,146250.9,483.0,Debt Consolidation,0.352426545,0.0,90430.26,278
+54,Other,Associate,Not Married,95970.24,525.0,Home,0.185298895,0.0,111207.15,279
+66,Female,Master,Married,155322.32,388.0,Business,0.393438657,2.0,105483.37,280
+73,Non-Binary,High School,Not Married,47896.94,829.0,Education,0.179595735,0.0,33990.44,281
+34,Other,High School,Not Married,204612.96,670.0,Education,0.713276756,0.0,75750.98,282
+76,Non-Binary,PhD,Married,125701.16,698.0,Debt Consolidation,0.873019438,2.0,91172.59,283
+66,Male,Bachelor,Not Married,114703.91,405.0,Home,0.876059565,2.0,10788.46,284
+45,Male,PhD,Not Married,37429.64,824.0,Home,0.660692558,1.0,57022.97,287
+71,Male,High School,Married,162444.44,331.0,Business,0.328164642,1.0,62982.33,288
+40,Male,High School,Married,72253.73,692.0,Medical,0.604616336,2.0,40900.84,289
+49,Male,Associate,Not Married,191079.97,517.0,Car,0.485613872,0.0,64175.85,291
+50,Female,Master,Married,187278.15,381.0,Education,0.706221248,2.0,74761.93,292
+18,Female,Bachelor,Not Married,135814.84,500.0,Car,0.325534684,1.0,49214.06,293
+79,Other,Master,Not Married,51980.99,727.0,Debt Consolidation,0.839713433,0.0,48041.92,295
+70,Female,PhD,Married,78286.65,510.0,Personal,0.488507439,0.0,50296.91,297
+43,Female,PhD,Married,80919.54,626.0,Personal,0.588290406,0.0,98746.24,299
+72,Other,High School,Not Married,175957.73,738.0,Car,0.781638733,0.0,26876.86,303
+28,Non-Binary,PhD,Not Married,127347.7,523.0,Car,0.179663771,0.0,90928.16,306
+73,Non-Binary,PhD,Married,32328.71,787.0,Car,0.112822525,1.0,1702.56,307
+76,Non-Binary,High School,Married,79260.86,528.0,Debt Consolidation,0.870948151,1.0,88866.65,308
+34,Non-Binary,High School,Married,167429.81,689.0,Personal,0.401588934,2.0,62007.2,309
+55,Other,PhD,Married,35570.06,487.0,Car,0.58257045,0.0,29988.47,310
+22,Other,Associate,Not Married,23521.79,609.0,Debt Consolidation,0.646491429,2.0,32585.35,312
+69,Other,Bachelor,Married,73254.98,431.0,Business,0.846053367,1.0,108488.74,313
+51,Non-Binary,Master,Married,174373.42,850.0,Debt Consolidation,0.560532202,0.0,87196.48,314
+23,Female,Associate,Married,87467.85,371.0,Personal,0.200892258,2.0,13519.96,315
+39,Female,High School,Not Married,43593.3,486.0,Car,0.565377222,1.0,102762.17,316
+28,Other,Associate,Not Married,96465.48,785.0,Debt Consolidation,0.71307777,2.0,75481.45,317
+65,Other,Bachelor,Not Married,78078.69,490.0,Home,0.425133229,0.0,12126.22,318
+26,Non-Binary,Associate,Married,184202.91,519.0,Education,0.819399135,1.0,62665.62,321
+77,Female,High School,Married,205270.56,352.0,Education,0.598804249,0.0,17579.58,322
+46,Other,Master,Not Married,220048.28,705.0,Medical,0.827061198,1.0,82308.74,326
+20,Female,Master,Married,41013.99,721.0,Medical,0.708320054,2.0,83660.72,327
+77,Female,High School,Married,123803.98,371.0,Personal,0.340773056,0.0,49476.94,329
+53,Female,High School,Not Married,152230.82,305.0,Home,0.70516087,2.0,4075.74,331
+36,Non-Binary,PhD,Married,166791.4,505.0,Home,0.479326357,1.0,91435.38,332
+43,Non-Binary,PhD,Married,23632.99,843.0,Education,0.280631642,1.0,24754.94,333
+20,Other,High School,Not Married,56908.62,686.0,Education,0.593297583,0.0,16803.64,334
+36,Female,Bachelor,Married,168672.01,375.0,Debt Consolidation,0.132267082,2.0,66393.94,335
+49,Male,PhD,Not Married,220451.28,648.0,Debt Consolidation,0.474845596,1.0,40041.05,337
+24,Other,High School,Married,178493.99,554.0,Medical,0.218366667,2.0,27740.45,338
+69,Male,Bachelor,Married,217325.15,607.0,Education,0.887723582,0.0,22160.68,339
+58,Female,High School,Married,166521.94,644.0,Car,0.267277892,0.0,42639.31,340
+50,Female,High School,Married,83739.37,426.0,Business,0.204282504,0.0,40606.4,341
+57,Female,High School,Not Married,44303.99,586.0,Debt Consolidation,0.262827899,0.0,40096.01,342
+35,Non-Binary,High School,Not Married,154571.58,682.0,Business,0.440404527,2.0,77217.5,344
+57,Other,Associate,Married,32601.75,705.0,Business,0.552332752,0.0,25797.81,345
+18,Male,PhD,Not Married,96427.92,687.0,Education,0.116807326,2.0,17509.66,346
+28,Other,Bachelor,Married,218558.65,824.0,Home,0.127545047,0.0,22695.21,347
+74,Other,Bachelor,Married,111302.34,799.0,Business,0.753324195,1.0,24893.62,349
+67,Male,Bachelor,Married,65489.94,780.0,Business,0.169365254,1.0,75017.53,351
+48,Female,Bachelor,Not Married,98425.99,357.0,Medical,0.830583749,0.0,109151.57,353
+59,Female,High School,Not Married,179830.39,408.0,Personal,0.763652665,0.0,56669.01,355
+52,Male,Master,Not Married,107981.8,578.0,Car,0.206956524,1.0,73537.32,356
+33,Non-Binary,Master,Married,66126.7,773.0,Debt Consolidation,0.853067514,1.0,29144.54,359
+43,Other,High School,Not Married,157273.97,410.0,Education,0.641293787,0.0,72742.11,360
+74,Non-Binary,High School,Not Married,202872.87,796.0,Personal,0.850544938,1.0,91779.15,362
+77,Male,PhD,Married,161461.25,772.0,Debt Consolidation,0.365738018,0.0,98274.82,364
+66,Female,Bachelor,Not Married,147122.55,571.0,Business,0.660646734,0.0,89383.22,365
+19,Female,PhD,Not Married,83176.4,301.0,Medical,0.71225304,1.0,58068.31,366
+18,Other,PhD,Married,50696.74,810.0,Medical,0.843522787,0.0,15910.48,367
+79,Male,Master,Not Married,173901.35,312.0,Education,0.738398428,2.0,83254.12,369
+29,Non-Binary,PhD,Not Married,87336.29,797.0,Business,0.690836843,1.0,90656.99,370
+49,Female,Bachelor,Married,168704.92,637.0,Business,0.326212366,1.0,105806.01,373
+76,Male,Master,Married,63511.4,470.0,Debt Consolidation,0.343592339,0.0,28006.6,374
+26,Female,PhD,Married,81561.25,442.0,Medical,0.614221931,1.0,46057.3,376
+58,Other,Bachelor,Married,98011.08,500.0,Personal,0.674140926,0.0,90061.64,377
+52,Male,Master,Not Married,34629.1,479.0,Car,0.88129411,2.0,52929.17,378
+65,Male,PhD,Not Married,128316.29,778.0,Home,0.741472135,1.0,50279.95,380
+20,Male,Associate,Married,193729.38,683.0,Home,0.795626937,0.0,34443.89,382
+37,Male,High School,Not Married,25747.15,716.0,Medical,0.244526033,1.0,57144.53,383
+41,Non-Binary,Associate,Not Married,100325.39,607.0,Debt Consolidation,0.858148942,2.0,105200.85,384
+71,Non-Binary,Master,Not Married,91781.14,666.0,Education,0.275017367,0.0,37139.71,385
+41,Non-Binary,PhD,Married,107396.11,397.0,Education,0.415004113,1.0,80755.22,388
+28,Female,Associate,Not Married,105481.93,439.0,Medical,0.455658801,2.0,87567.28,390
+66,Non-Binary,Associate,Not Married,131401.7,780.0,Personal,0.69389595,0.0,84241.76,391
+25,Male,Master,Married,144539.65,536.0,Education,0.282665002,0.0,26523.28,392
+55,Female,Bachelor,Married,117721.72,489.0,Debt Consolidation,0.339943518,2.0,34644.62,394
+57,Other,Bachelor,Not Married,219929.75,567.0,Debt Consolidation,0.479446932,0.0,2817.48,395
+37,Other,Master,Not Married,128965.15,620.0,Home,0.234416042,0.0,52891.31,396
+52,Female,High School,Not Married,86566.05,531.0,Home,0.419986415,2.0,113091.5,398
+65,Male,Master,Not Married,181145.08,341.0,Debt Consolidation,0.145913475,0.0,92399.15,399
+79,Other,Master,Not Married,180926.11,438.0,Debt Consolidation,0.566645799,1.0,52050.83,400
+42,Non-Binary,PhD,Not Married,129428.45,572.0,Education,0.807474742,0.0,41290.83,401
+19,Other,PhD,Not Married,77094.18,641.0,Car,0.50370983,0.0,36340.08,408
+71,Other,High School,Not Married,26332.27,792.0,Debt Consolidation,0.105882436,2.0,3790.94,409
+52,Female,Associate,Not Married,82768.54,491.0,Car,0.653376091,0.0,60575.61,410
+33,Other,Bachelor,Not Married,180971.22,798.0,Business,0.629074143,0.0,42175.45,411
+53,Other,Associate,Married,98820.16,670.0,Education,0.883225473,1.0,18972.88,414
+50,Non-Binary,PhD,Married,23017.03,438.0,Home,0.43658925,2.0,90900.29,415
+21,Male,PhD,Not Married,84097.17,448.0,Personal,0.501556324,2.0,37933.08,416
+50,Male,PhD,Not Married,155044.24,414.0,Personal,0.827944127,0.0,69564.71,417
+31,Female,PhD,Married,222118.64,749.0,Home,0.673809501,1.0,13886.99,418
+65,Female,Bachelor,Not Married,27568.94,403.0,Personal,0.738243745,1.0,89417.89,420
+37,Non-Binary,High School,Not Married,206639.41,572.0,Car,0.791493013,1.0,41592.35,421
+25,Male,High School,Not Married,182451.77,446.0,Personal,0.480086692,2.0,28536.22,423
+24,Male,PhD,Not Married,116473.42,483.0,Home,0.408840749,1.0,18062.57,424
+20,Non-Binary,Bachelor,Not Married,104195.76,327.0,Debt Consolidation,0.873364912,2.0,28984.07,425
+34,Non-Binary,Associate,Married,84734.73,849.0,Business,0.657733003,1.0,55858.49,426
+50,Female,Bachelor,Married,36185.1,418.0,Personal,0.166578453,2.0,17056.15,427
+65,Female,PhD,Married,69450.65,592.0,Medical,0.790367699,2.0,1708.68,428
+29,Female,Bachelor,Not Married,73209.9,670.0,Personal,0.484447953,2.0,98712.83,429
+68,Male,PhD,Married,175711.97,517.0,Home,0.539773804,1.0,15351.84,431
+39,Male,Bachelor,Married,119709.92,476.0,Business,0.433731423,0.0,75001.18,432
+72,Female,Master,Married,34578.44,598.0,Home,0.802199524,1.0,77692.62,433
+47,Other,Associate,Married,183436.89,607.0,Car,0.546150953,2.0,89228.88,436
+55,Other,PhD,Not Married,225625.17,587.0,Car,0.143688243,1.0,51006.91,437
+68,Female,Bachelor,Married,38213.33,546.0,Education,0.332701483,2.0,28772.25,440
+71,Other,Associate,Not Married,97580.22,793.0,Home,0.475525474,1.0,27764.51,441
+25,Non-Binary,High School,Not Married,68866.53,382.0,Personal,0.786286227,1.0,51344.22,442
+44,Male,Master,Married,62819.2,485.0,Medical,0.3439225,1.0,46718.84,443
+47,Non-Binary,PhD,Not Married,141094.55,746.0,Medical,0.72403847,2.0,79853.76,447
+50,Non-Binary,Bachelor,Not Married,52817.39,759.0,Car,0.477301092,1.0,69915.63,448
+45,Male,Associate,Not Married,188744.59,771.0,Education,0.281985283,1.0,86115.03,449
+64,Male,Associate,Not Married,152894.49,669.0,Debt Consolidation,0.232948,1.0,75867.13,450
+50,Male,Associate,Not Married,102182.0,791.0,Personal,0.366183581,2.0,28350.74,451
+77,Non-Binary,PhD,Married,75932.16,666.0,Home,0.37442137,0.0,43724.94,453
+78,Non-Binary,Associate,Married,93387.04,483.0,Education,0.890499261,2.0,36282.66,454
+36,Female,PhD,Married,82194.65,771.0,Home,0.243331135,2.0,65607.6,456
+21,Male,Bachelor,Not Married,118927.8,674.0,Business,0.812912073,2.0,21842.32,457
+52,Other,High School,Married,204916.28,836.0,Personal,0.468284299,2.0,33145.83,458
+34,Non-Binary,High School,Married,35470.51,549.0,Education,0.886969267,2.0,32165.7,460
+61,Non-Binary,High School,Not Married,52887.04,809.0,Medical,0.14014028,1.0,26812.67,461
+45,Non-Binary,PhD,Married,24344.86,372.0,Home,0.177355648,2.0,47665.28,462
+70,Non-Binary,Associate,Married,218790.8,510.0,Home,0.131489504,2.0,86395.05,466
+23,Non-Binary,High School,Married,131140.16,451.0,Business,0.11747737,0.0,20994.45,467
+77,Female,PhD,Not Married,125193.52,494.0,Education,0.207546742,2.0,15891.75,469
+54,Other,Master,Married,38343.12,763.0,Home,0.584717452,1.0,94783.38,471
+46,Non-Binary,Master,Married,187893.56,570.0,Personal,0.121685322,1.0,52321.56,473
+66,Male,Bachelor,Married,116815.02,462.0,Education,0.726801202,1.0,104141.53,474
+63,Male,Associate,Not Married,134602.48,759.0,Debt Consolidation,0.10841058,2.0,21801.27,475
+48,Female,PhD,Not Married,31724.56,581.0,Home,0.814643595,1.0,38933.28,477
+52,Non-Binary,High School,Married,56662.35,461.0,Medical,0.446271937,1.0,94411.76,478
+77,Non-Binary,High School,Not Married,113924.55,650.0,Education,0.528433978,2.0,17906.06,479
+50,Other,Associate,Married,65551.89,733.0,Home,0.481586714,2.0,8054.57,480
+69,Male,PhD,Married,32968.71,439.0,Home,0.411366895,1.0,15597.94,481
+38,Male,PhD,Married,223550.87,431.0,Education,0.815146809,2.0,71755.53,483
+49,Male,High School,Married,185064.62,386.0,Home,0.368653092,1.0,2412.63,484
+40,Male,High School,Married,197475.63,482.0,Car,0.592055803,2.0,94661.49,485
+50,Male,PhD,Not Married,72263.04,667.0,Business,0.84152605,0.0,44429.79,486
+59,Female,Associate,Not Married,226339.71,448.0,Home,0.322955453,2.0,57378.17,490
+71,Female,PhD,Married,223540.87,768.0,Personal,0.214251444,1.0,9370.14,492
+20,Female,High School,Married,75857.82,780.0,Personal,0.326040214,1.0,88873.22,494
+57,Male,High School,Not Married,112175.58,593.0,Car,0.323206632,1.0,54428.26,495
+63,Non-Binary,PhD,Married,144218.18,442.0,Medical,0.42397487,2.0,69892.28,496
+41,Female,PhD,Married,37696.87,549.0,Home,0.899034349,0.0,75642.63,497
+49,Female,Master,Not Married,223547.86,324.0,Debt Consolidation,0.562833455,2.0,103072.04,499
+64,Female,Associate,Not Married,61647.44,369.0,Debt Consolidation,0.166057726,2.0,60388.69,500
+39,Male,PhD,Not Married,184952.52,411.0,Car,0.223616664,2.0,29166.68,501
+40,Non-Binary,Bachelor,Not Married,208550.56,663.0,Car,0.451650353,0.0,7440.79,502
+19,Non-Binary,Bachelor,Married,215877.97,602.0,Medical,0.508368105,2.0,86414.31,503
+59,Male,Associate,Married,129461.94,390.0,Business,0.353165705,2.0,97197.79,505
+50,Male,Master,Married,169753.66,644.0,Home,0.367902632,2.0,111788.68,510
+60,Male,Associate,Not Married,153848.3,802.0,Debt Consolidation,0.827676313,2.0,37807.72,512
+65,Non-Binary,Associate,Not Married,56038.13,491.0,Debt Consolidation,0.748546856,0.0,37919.56,514
+56,Other,High School,Not Married,138390.36,304.0,Home,0.858695642,1.0,10057.57,515
+46,Other,High School,Married,180661.16,536.0,Personal,0.173060587,2.0,5807.71,516
+72,Female,PhD,Married,25217.02,848.0,Car,0.868597042,0.0,89668.77,518
+43,Non-Binary,Bachelor,Not Married,24589.81,355.0,Business,0.530032115,1.0,96427.69,519
+52,Non-Binary,PhD,Not Married,95809.62,742.0,Home,0.111357308,0.0,15597.81,520
+42,Non-Binary,Bachelor,Married,69540.99,496.0,Education,0.459954939,2.0,75413.94,522
+41,Other,Master,Not Married,152568.87,813.0,Home,0.654327129,2.0,11780.55,523
+30,Other,Master,Not Married,68190.05,748.0,Business,0.686528303,0.0,112866.77,524
+77,Female,Bachelor,Not Married,88572.98,659.0,Personal,0.89633721,0.0,57460.94,525
+75,Non-Binary,High School,Married,196300.3,329.0,Debt Consolidation,0.33000896,1.0,11351.72,526
+53,Other,High School,Not Married,110478.15,737.0,Debt Consolidation,0.424516208,2.0,54943.29,529
+62,Non-Binary,Master,Married,28709.89,756.0,Car,0.235329515,0.0,95033.09,530
+33,Female,PhD,Married,104161.24,577.0,Business,0.281808843,1.0,111253.49,535
+29,Non-Binary,Bachelor,Not Married,226019.57,684.0,Personal,0.655976106,1.0,37047.98,537
+40,Female,Bachelor,Married,178487.89,789.0,Personal,0.892228136,0.0,43601.33,539
+32,Female,Associate,Not Married,98817.05,725.0,Debt Consolidation,0.589073325,1.0,43183.82,540
+45,Non-Binary,High School,Not Married,103060.49,704.0,Home,0.39677897,1.0,5017.99,541
+51,Other,Associate,Not Married,177107.87,634.0,Education,0.717721622,2.0,30029.74,542
+19,Female,Associate,Not Married,210705.16,508.0,Debt Consolidation,0.236370009,2.0,30459.5,543
+49,Male,Bachelor,Married,217357.05,321.0,Medical,0.407612651,0.0,46431.62,544
+39,Female,Bachelor,Not Married,95828.42,307.0,Medical,0.445445676,2.0,87888.41,546
+68,Female,Master,Married,183919.8,828.0,Personal,0.725423861,1.0,36895.74,547
+42,Male,Bachelor,Married,74109.94,465.0,Education,0.487338426,1.0,67181.99,548
+79,Non-Binary,Bachelor,Not Married,96126.66,728.0,Personal,0.561191123,0.0,12872.26,550
+78,Other,High School,Not Married,157126.11,462.0,Personal,0.373655548,1.0,94942.71,551
+39,Other,Bachelor,Not Married,71940.04,665.0,Car,0.747982995,1.0,24024.24,552
+75,Non-Binary,High School,Married,61951.41,825.0,Personal,0.290631736,2.0,55432.46,553
+66,Other,High School,Not Married,126289.34,744.0,Business,0.308679397,1.0,75607.68,556
+69,Other,PhD,Not Married,67939.73,808.0,Personal,0.107269628,0.0,19724.73,557
+59,Other,High School,Not Married,30707.4,568.0,Car,0.618638022,1.0,58039.77,558
+23,Male,High School,Not Married,30111.61,714.0,Business,0.508875057,1.0,98124.09,559
+32,Other,Master,Married,58600.89,544.0,Home,0.456414252,2.0,7468.29,560
+71,Male,Associate,Married,200133.22,359.0,Business,0.873574812,2.0,35878.58,561
+60,Other,Associate,Not Married,80552.1,305.0,Debt Consolidation,0.556959347,2.0,78574.81,562
+77,Non-Binary,High School,Married,217260.97,706.0,Car,0.790745262,1.0,31360.18,563
+54,Female,Bachelor,Not Married,141774.82,516.0,Medical,0.211560189,1.0,109261.48,564
+50,Male,PhD,Not Married,112097.46,325.0,Business,0.555365171,0.0,94460.09,565
+70,Non-Binary,Bachelor,Not Married,128487.49,831.0,Debt Consolidation,0.566484606,0.0,56216.63,567
+77,Female,High School,Not Married,178031.15,689.0,Debt Consolidation,0.674411343,2.0,15565.91,568
+61,Male,High School,Married,80555.64,747.0,Personal,0.397634854,2.0,46040.13,569
+61,Female,High School,Not Married,94995.29,445.0,Debt Consolidation,0.173959614,2.0,67877.7,570
+56,Male,Associate,Married,216441.79,548.0,Medical,0.415583513,1.0,73825.6,572
+23,Other,Associate,Married,108584.23,761.0,Education,0.295196242,1.0,112001.96,574
+62,Male,Associate,Not Married,182449.6,312.0,Personal,0.873387382,1.0,76286.0,575
+49,Female,High School,Married,120226.87,683.0,Debt Consolidation,0.866510496,2.0,18432.18,576
+69,Non-Binary,Master,Married,124566.5,698.0,Debt Consolidation,0.298105314,0.0,20513.5,577
+64,Male,Bachelor,Not Married,143720.72,790.0,Debt Consolidation,0.816444593,2.0,45930.81,579
+52,Female,Associate,Married,60834.57,718.0,Car,0.873297777,1.0,39618.52,580
+72,Male,PhD,Married,90598.04,636.0,Business,0.454751282,1.0,48533.36,581
+57,Male,Master,Married,197730.49,718.0,Business,0.356797637,1.0,18488.3,582
+33,Female,Bachelor,Married,37303.25,731.0,Home,0.650215365,1.0,13034.98,584
+30,Other,Associate,Not Married,36863.1,343.0,Personal,0.318779612,0.0,67744.51,585
+67,Female,High School,Not Married,215280.96,616.0,Car,0.68917854,0.0,30507.7,586
+77,Non-Binary,Master,Not Married,126486.34,680.0,Home,0.141325886,2.0,69144.63,587
+47,Male,Master,Not Married,188694.41,626.0,Car,0.409030164,0.0,53203.78,589
+36,Non-Binary,High School,Not Married,193800.14,662.0,Debt Consolidation,0.382778554,0.0,29388.87,590
+34,Female,High School,Not Married,90726.22,349.0,Business,0.352506572,1.0,11180.11,591
+36,Non-Binary,High School,Not Married,180558.0,654.0,Debt Consolidation,0.356586866,2.0,112247.95,593
+43,Non-Binary,Master,Married,133071.09,697.0,Education,0.428890734,0.0,29339.64,597
+43,Male,Associate,Married,109767.2,486.0,Education,0.561235992,1.0,3445.03,599
+70,Male,High School,Married,30429.3,489.0,Medical,0.886672615,2.0,59339.29,600
+79,Female,High School,Not Married,48909.21,687.0,Business,0.293281021,2.0,32453.96,601
+26,Male,High School,Not Married,22742.38,583.0,Education,0.672787755,1.0,89608.35,603
+29,Male,Master,Not Married,107994.36,536.0,Medical,0.585859533,2.0,78764.78,604
+70,Female,PhD,Not Married,129676.93,493.0,Education,0.170862672,2.0,8521.22,605
+18,Male,Bachelor,Not Married,33921.49,586.0,Business,0.641497821,1.0,15903.91,606
+75,Non-Binary,Master,Not Married,69018.81,470.0,Medical,0.57691412,1.0,66995.11,608
+18,Other,Bachelor,Not Married,84997.31,458.0,Debt Consolidation,0.691664942,1.0,67291.51,609
+49,Non-Binary,Master,Not Married,23041.63,803.0,Business,0.124283044,0.0,49964.38,612
+79,Female,Associate,Married,172007.7,670.0,Debt Consolidation,0.775050291,2.0,29744.58,613
+71,Female,Bachelor,Married,220614.6,402.0,Home,0.468263241,1.0,31178.98,614
+42,Female,PhD,Married,158439.23,612.0,Debt Consolidation,0.207022516,2.0,34777.94,616
+57,Non-Binary,Associate,Not Married,174576.5,757.0,Education,0.862645734,2.0,9505.13,617
+70,Non-Binary,Bachelor,Not Married,109235.3,496.0,Medical,0.259274736,1.0,69317.46,619
+18,Male,High School,Not Married,84737.84,722.0,Home,0.378257878,1.0,65660.54,620
+78,Non-Binary,Associate,Not Married,168585.08,681.0,Medical,0.535840868,2.0,53187.69,622
+56,Non-Binary,Bachelor,Married,189902.08,472.0,Business,0.200514794,2.0,35990.09,623
+72,Female,Master,Married,187837.89,303.0,Home,0.428915469,0.0,21826.84,627
+20,Other,Bachelor,Not Married,224301.12,392.0,Home,0.663225162,2.0,96021.98,628
+29,Male,PhD,Not Married,177104.45,305.0,Debt Consolidation,0.273962346,1.0,24854.77,629
+68,Female,Associate,Married,158023.18,723.0,Car,0.881165224,2.0,88410.69,632
+54,Male,Associate,Not Married,38796.77,756.0,Business,0.863733086,1.0,16243.23,633
+46,Male,PhD,Not Married,56983.97,305.0,Car,0.154429851,1.0,76300.05,636
+31,Male,High School,Not Married,182504.09,675.0,Home,0.35352331,0.0,74396.15,637
+64,Female,Master,Married,31422.14,700.0,Personal,0.722182328,0.0,77339.54,640
+66,Female,PhD,Not Married,77041.64,395.0,Debt Consolidation,0.786658351,1.0,99216.93,641
+63,Female,Associate,Not Married,83433.95,751.0,Car,0.387740449,2.0,46691.91,643
+69,Male,Bachelor,Not Married,178078.02,803.0,Business,0.350267358,2.0,48466.04,645
+29,Male,PhD,Married,127905.45,590.0,Medical,0.661252212,2.0,37461.25,647
+33,Other,Associate,Married,126889.54,833.0,Car,0.107862042,1.0,56185.5,648
+43,Male,PhD,Married,98317.0,492.0,Debt Consolidation,0.42734607,2.0,95309.48,649
+43,Male,Master,Married,213672.41,449.0,Medical,0.363503415,2.0,94902.68,650
+65,Other,Associate,Married,192097.45,814.0,Personal,0.654702031,2.0,38749.14,651
+38,Female,PhD,Not Married,165430.87,692.0,Medical,0.712996378,2.0,38976.21,652
+56,Female,Master,Married,168934.08,615.0,Home,0.343275709,0.0,99156.54,653
+53,Other,Bachelor,Not Married,117234.83,375.0,Debt Consolidation,0.749301612,2.0,66712.7,654
+79,Male,Bachelor,Not Married,164895.9,524.0,Medical,0.457061088,1.0,16914.44,656
+54,Male,High School,Not Married,199093.66,412.0,Car,0.654336183,1.0,10414.27,658
+75,Male,PhD,Married,187915.13,532.0,Education,0.280128819,1.0,10261.31,660
+27,Other,Bachelor,Married,62697.94,382.0,Medical,0.629854331,1.0,46572.68,661
+71,Male,High School,Not Married,93417.68,424.0,Car,0.587745527,2.0,87893.58,662
+22,Female,Master,Married,91426.03,474.0,Business,0.832078764,0.0,109357.05,663
+51,Non-Binary,Bachelor,Married,198038.91,346.0,Education,0.701438531,1.0,11826.23,665
+69,Non-Binary,Associate,Married,166241.43,555.0,Medical,0.554614893,2.0,79186.15,666
+48,Other,High School,Married,171539.44,329.0,Personal,0.319732696,1.0,57378.76,667
+75,Female,PhD,Not Married,100616.76,667.0,Personal,0.811200489,2.0,67206.57,671
+49,Male,PhD,Not Married,56106.81,794.0,Medical,0.555443988,0.0,58133.33,672
+22,Male,PhD,Married,101402.11,793.0,Education,0.140932405,1.0,94691.49,675
+21,Other,Bachelor,Married,194449.19,674.0,Business,0.493601384,2.0,69427.77,677
+41,Non-Binary,Associate,Married,166759.2,633.0,Education,0.245410878,0.0,113191.62,679
+33,Female,Associate,Married,221312.82,654.0,Debt Consolidation,0.503306274,0.0,96198.6,680
+66,Non-Binary,Bachelor,Not Married,166998.9,398.0,Home,0.471188334,2.0,24681.9,683
+45,Non-Binary,High School,Not Married,189973.45,758.0,Personal,0.206627406,0.0,78608.93,684
+49,Female,Bachelor,Married,134572.43,822.0,Debt Consolidation,0.842196586,1.0,42715.82,685
+44,Female,Bachelor,Not Married,220653.44,704.0,Medical,0.794161678,0.0,66121.09,686
+67,Female,High School,Not Married,199287.99,557.0,Education,0.746365862,0.0,84750.56,690
+52,Female,Bachelor,Married,59426.45,420.0,Medical,0.714211694,2.0,30341.38,691
+77,Female,Master,Not Married,186468.72,353.0,Personal,0.19117271,2.0,44379.29,692
+50,Non-Binary,Associate,Not Married,135857.03,630.0,Debt Consolidation,0.615126366,0.0,26416.67,693
+50,Non-Binary,PhD,Married,103898.67,540.0,Education,0.767459837,2.0,46159.72,694
+78,Other,Bachelor,Married,49696.8,829.0,Home,0.561882721,0.0,80076.68,695
+68,Male,Master,Not Married,199831.43,782.0,Education,0.6171259,1.0,20378.86,696
+60,Other,PhD,Not Married,54927.54,486.0,Medical,0.466690784,0.0,46686.04,697
+29,Non-Binary,Bachelor,Married,82100.72,663.0,Business,0.127501487,1.0,7060.45,699
+18,Non-Binary,Bachelor,Not Married,160415.4,730.0,Home,0.16515777,1.0,17516.14,701
+50,Other,Master,Not Married,185788.81,538.0,Education,0.448011675,1.0,52800.01,702
+57,Female,PhD,Not Married,74000.76,603.0,Education,0.334124078,0.0,26006.01,703
+27,Female,Bachelor,Not Married,150626.74,597.0,Car,0.53634236,2.0,69096.26,704
+60,Non-Binary,High School,Married,139753.54,375.0,Personal,0.206733068,2.0,94621.68,705
+61,Female,Bachelor,Not Married,193187.07,632.0,Home,0.653314722,1.0,50557.51,706
+46,Female,Associate,Not Married,208179.78,773.0,Car,0.73600923,2.0,53462.44,707
+29,Male,Master,Not Married,160684.92,371.0,Business,0.18345047,0.0,22370.01,709
+63,Non-Binary,Bachelor,Married,135069.41,311.0,Home,0.80170205,1.0,81249.78,711
+19,Other,High School,Married,81606.91,440.0,Education,0.522551409,0.0,4353.03,712
+67,Non-Binary,Associate,Married,149893.71,552.0,Education,0.619644805,2.0,89515.85,715
+52,Male,Master,Married,91106.66,764.0,Personal,0.794399674,1.0,94816.33,716
+40,Other,PhD,Married,172694.19,675.0,Education,0.762548695,1.0,82243.51,717
+34,Male,Master,Not Married,105530.58,819.0,Business,0.600843767,1.0,10311.92,718
+43,Male,Bachelor,Not Married,36729.17,389.0,Debt Consolidation,0.160222973,1.0,54687.7,719
+25,Non-Binary,High School,Married,183144.29,474.0,Medical,0.189917622,2.0,70965.14,720
+43,Non-Binary,High School,Not Married,90780.48,479.0,Debt Consolidation,0.308038432,0.0,72102.13,724
+51,Male,Master,Married,99266.68,680.0,Personal,0.854386227,1.0,82193.8,726
+68,Other,Associate,Married,216030.84,592.0,Debt Consolidation,0.588300848,1.0,14662.49,727
+58,Female,Bachelor,Not Married,154077.36,494.0,Debt Consolidation,0.767979029,0.0,56206.19,728
+24,Male,Master,Married,160164.93,527.0,Home,0.668281201,2.0,42327.38,729
+21,Non-Binary,Bachelor,Not Married,152142.87,730.0,Business,0.190002504,1.0,93959.42,730
+75,Male,Associate,Married,63465.74,735.0,Business,0.688736325,2.0,8343.44,731
+70,Non-Binary,High School,Married,108356.21,760.0,Debt Consolidation,0.320079105,2.0,107396.01,732
+67,Non-Binary,High School,Married,176427.33,320.0,Car,0.611286278,0.0,72766.36,733
+62,Male,Master,Married,43486.98,363.0,Car,0.372769579,0.0,113427.89,734
+28,Other,PhD,Not Married,79605.35,464.0,Medical,0.898137811,2.0,112599.42,735
+46,Non-Binary,Master,Married,79291.47,326.0,Medical,0.310841184,1.0,38056.29,736
+73,Other,PhD,Not Married,111157.0,610.0,Car,0.323304377,1.0,113409.92,737
+53,Female,Bachelor,Not Married,223382.26,584.0,Debt Consolidation,0.844537804,0.0,35420.92,738
+42,Non-Binary,Bachelor,Not Married,36555.07,580.0,Debt Consolidation,0.119715524,0.0,21024.89,739
+38,Other,Associate,Married,128897.35,463.0,Medical,0.65735119,0.0,36317.85,740
+78,Other,PhD,Not Married,59448.77,523.0,Education,0.680261113,0.0,37177.56,741
+53,Other,High School,Not Married,45928.69,329.0,Car,0.879551449,0.0,62854.74,743
+54,Female,Master,Married,173755.54,770.0,Debt Consolidation,0.152221406,1.0,36389.71,745
+26,Non-Binary,High School,Not Married,166934.11,333.0,Debt Consolidation,0.757471458,0.0,88932.71,746
+66,Other,High School,Not Married,104115.35,833.0,Debt Consolidation,0.202679941,1.0,37217.51,749
+52,Male,PhD,Married,76826.78,666.0,Personal,0.620149733,2.0,105401.86,750
+65,Female,Associate,Not Married,64763.44,849.0,Home,0.885986064,0.0,44365.33,751
+53,Male,High School,Married,121598.91,415.0,Car,0.829454856,0.0,67962.55,752
+40,Non-Binary,Master,Not Married,38494.61,587.0,Home,0.467474924,0.0,66072.71,758
+79,Female,Associate,Married,38208.94,687.0,Car,0.144081228,0.0,60718.99,759
+49,Non-Binary,Bachelor,Married,217458.28,349.0,Medical,0.441515782,0.0,100909.32,760
+54,Male,Master,Not Married,83583.53,816.0,Debt Consolidation,0.475219952,2.0,76256.05,761
+29,Non-Binary,PhD,Married,41582.43,577.0,Business,0.842844426,2.0,92282.83,762
+66,Male,Associate,Married,145340.47,599.0,Medical,0.612868883,1.0,71299.14,763
+72,Non-Binary,Bachelor,Married,150375.96,434.0,Home,0.349322333,0.0,56143.67,764
+30,Other,Master,Married,155463.0,446.0,Personal,0.520254612,0.0,45552.4,765
+52,Other,Bachelor,Married,220240.05,458.0,Medical,0.388047922,2.0,86230.78,768
+47,Other,Master,Not Married,161095.54,462.0,Personal,0.384227179,1.0,48868.68,770
+34,Female,Bachelor,Not Married,167358.87,740.0,Debt Consolidation,0.646009384,2.0,59588.98,771
+66,Female,PhD,Not Married,147584.12,488.0,Debt Consolidation,0.629785727,0.0,3394.2,772
+79,Male,PhD,Not Married,86779.63,714.0,Personal,0.672257848,1.0,9381.74,773
+37,Non-Binary,Bachelor,Married,78222.56,638.0,Home,0.314514584,1.0,92527.92,774
+30,Female,Associate,Not Married,44414.68,437.0,Medical,0.131837702,0.0,96808.51,778
+76,Non-Binary,High School,Married,54427.22,429.0,Car,0.578145868,1.0,71090.9,779
+36,Female,Bachelor,Married,216089.73,493.0,Home,0.795756708,2.0,30602.26,780
+66,Non-Binary,High School,Not Married,173479.3,615.0,Personal,0.812665719,0.0,41379.77,781
+29,Non-Binary,High School,Married,64210.79,315.0,Home,0.467442951,1.0,69587.32,783
+36,Male,Master,Married,161931.7,544.0,Business,0.757007536,2.0,32903.78,786
+29,Male,Associate,Married,106272.32,406.0,Personal,0.295724044,1.0,53253.4,787
+24,Other,Master,Married,142041.65,428.0,Personal,0.771071469,2.0,85482.18,789
+45,Female,Associate,Not Married,74539.76,640.0,Medical,0.801696374,0.0,33959.03,790
+31,Male,PhD,Not Married,114889.03,303.0,Education,0.294543984,1.0,7151.76,791
+48,Female,PhD,Not Married,218718.53,626.0,Personal,0.540456508,0.0,18072.19,792
+75,Non-Binary,Associate,Not Married,61326.72,524.0,Home,0.828896401,2.0,87595.45,795
+33,Female,Bachelor,Not Married,222694.24,620.0,Home,0.708027921,2.0,35608.21,797
+52,Other,PhD,Married,111477.05,407.0,Car,0.450435261,1.0,100470.49,800
+29,Male,PhD,Not Married,41696.73,830.0,Business,0.373916099,1.0,106495.31,801
+42,Female,Bachelor,Married,175904.34,709.0,Personal,0.537181089,0.0,53132.69,802
+69,Female,Associate,Not Married,209911.53,595.0,Debt Consolidation,0.173082594,0.0,69263.89,803
+76,Other,PhD,Married,111566.74,470.0,Car,0.705317239,1.0,30926.74,804
+38,Non-Binary,High School,Not Married,75687.93,630.0,Medical,0.565948062,0.0,113326.65,805
+53,Female,Bachelor,Married,111644.99,792.0,Medical,0.249272077,0.0,4913.02,806
+70,Non-Binary,Associate,Married,170800.83,494.0,Home,0.25058576,2.0,36173.67,807
+33,Other,High School,Not Married,143377.66,494.0,Home,0.14560191,0.0,55863.94,809
+74,Male,Associate,Not Married,148256.27,789.0,Personal,0.570238759,0.0,55113.12,810
+56,Female,Bachelor,Not Married,153249.27,481.0,Personal,0.772278542,1.0,95778.29,811
+62,Non-Binary,Master,Not Married,72272.23,615.0,Business,0.113998571,0.0,37910.09,812
+70,Male,High School,Married,168878.03,329.0,Education,0.139203716,2.0,24469.97,813
+59,Female,High School,Not Married,41444.18,395.0,Home,0.558216221,0.0,66633.5,814
+56,Other,Master,Married,202323.02,743.0,Home,0.361391112,2.0,69830.58,816
+31,Female,Master,Married,173927.08,597.0,Personal,0.379691519,2.0,49076.81,817
+75,Male,Bachelor,Married,73572.69,673.0,Home,0.319370311,2.0,93152.45,819
+22,Non-Binary,PhD,Married,66620.43,602.0,Car,0.121286693,0.0,11853.99,820
+40,Female,Master,Married,73405.58,545.0,Education,0.60051993,0.0,7304.0,822
+46,Female,Master,Married,35536.63,536.0,Business,0.564604799,0.0,48928.17,823
+60,Non-Binary,PhD,Not Married,116666.76,833.0,Medical,0.693347303,2.0,46806.1,824
+35,Other,PhD,Married,146913.71,767.0,Medical,0.264705591,2.0,109151.81,826
+64,Female,Bachelor,Married,160449.92,662.0,Car,0.381984838,0.0,81203.87,827
+26,Male,High School,Married,217472.09,635.0,Personal,0.203885611,2.0,104088.97,829
+27,Male,Bachelor,Married,194345.74,461.0,Medical,0.640956597,0.0,72970.81,830
+75,Female,Bachelor,Married,187509.79,459.0,Education,0.786880086,0.0,8791.16,831
+61,Non-Binary,Associate,Not Married,191171.86,773.0,Medical,0.870186067,2.0,67745.56,832
+63,Other,High School,Married,174778.13,500.0,Debt Consolidation,0.563005181,0.0,35203.1,837
+30,Male,Associate,Not Married,173762.17,821.0,Home,0.594628017,0.0,13733.78,838
+57,Female,Master,Not Married,129459.75,804.0,Home,0.725169671,2.0,78593.59,839
+59,Other,Bachelor,Not Married,36750.76,338.0,Business,0.662621782,0.0,89042.56,840
+26,Male,Master,Not Married,98691.98,359.0,Business,0.767566602,2.0,28963.26,841
+44,Female,Master,Married,142353.31,734.0,Car,0.698016509,2.0,88290.01,843
+75,Male,Bachelor,Not Married,132915.02,707.0,Education,0.780682206,2.0,56388.05,844
+19,Male,PhD,Not Married,77763.56,685.0,Education,0.328908034,2.0,61770.75,845
+54,Female,High School,Married,159138.33,584.0,Business,0.866376853,1.0,98275.31,848
+55,Other,Bachelor,Not Married,183886.62,826.0,Car,0.126738858,0.0,32940.65,849
+36,Non-Binary,High School,Married,115726.34,823.0,Home,0.563834275,2.0,95734.98,850
+65,Female,High School,Not Married,73574.19,639.0,Business,0.669776164,2.0,47527.87,852
+62,Female,PhD,Married,167119.61,424.0,Business,0.240712227,1.0,25645.41,853
+18,Male,High School,Not Married,110252.89,579.0,Medical,0.28830661,1.0,105116.3,854
+39,Non-Binary,Associate,Married,113311.36,427.0,Medical,0.495496649,1.0,4034.64,855
+34,Non-Binary,Master,Married,214359.19,631.0,Debt Consolidation,0.269371498,2.0,102139.61,857
+24,Female,Master,Married,35839.54,449.0,Car,0.215392017,0.0,93331.47,858
+62,Other,High School,Not Married,82579.13,335.0,Home,0.500495626,0.0,73003.42,860
+21,Female,Associate,Not Married,113592.55,719.0,Personal,0.82942809,1.0,94530.26,861
+53,Other,Associate,Married,27224.78,321.0,Car,0.217291646,1.0,40560.25,862
+23,Male,Bachelor,Not Married,84352.09,505.0,Medical,0.616742314,1.0,105169.81,863
+77,Male,Associate,Married,125608.51,655.0,Personal,0.286303317,2.0,77556.11,864
+36,Non-Binary,PhD,Not Married,123247.65,395.0,Personal,0.646743532,1.0,95509.38,866
+78,Female,High School,Not Married,212482.46,463.0,Education,0.574947696,0.0,65574.14,867
+71,Male,Associate,Married,179190.44,829.0,Personal,0.347570061,2.0,106592.03,869
+56,Female,PhD,Married,106583.28,593.0,Car,0.458377325,1.0,77783.08,870
+56,Female,Bachelor,Married,37166.88,751.0,Medical,0.383638567,1.0,11592.13,875
+79,Other,Associate,Married,60734.46,403.0,Education,0.551675265,1.0,25514.09,876
+20,Female,PhD,Married,158679.14,761.0,Medical,0.301858195,0.0,30060.32,877
+30,Female,Master,Married,189358.96,636.0,Car,0.312548452,0.0,6595.05,879
+45,Male,PhD,Married,45340.99,616.0,Business,0.182780051,2.0,27017.3,881
+79,Non-Binary,Master,Not Married,81925.1,826.0,Education,0.625250162,2.0,59077.99,882
+45,Non-Binary,Master,Married,128141.06,794.0,Car,0.874661568,0.0,41032.03,885
+58,Male,High School,Not Married,95146.49,505.0,Medical,0.641456035,0.0,85619.32,888
+20,Non-Binary,Bachelor,Married,85733.5,586.0,Business,0.342988037,2.0,10410.6,891
+30,Other,Associate,Married,209755.94,654.0,Medical,0.174413927,1.0,15266.37,892
+45,Other,High School,Married,217743.12,775.0,Home,0.215094373,1.0,21414.07,893
+74,Non-Binary,High School,Not Married,95276.61,409.0,Car,0.438354835,2.0,52427.55,895
+77,Non-Binary,Master,Married,126223.09,489.0,Education,0.736462701,1.0,90679.17,896
+42,Non-Binary,High School,Not Married,202087.54,590.0,Personal,0.204256347,1.0,47417.15,898
+73,Female,PhD,Married,43731.56,500.0,Car,0.61474316,0.0,50609.31,899
+50,Female,Master,Married,103116.27,625.0,Medical,0.257746386,1.0,14042.64,900
+70,Non-Binary,High School,Married,125711.1,708.0,Education,0.233478863,1.0,23618.69,902
+23,Other,PhD,Married,62416.01,807.0,Debt Consolidation,0.838985117,0.0,56744.44,903
+75,Female,PhD,Married,198505.44,371.0,Business,0.757177002,1.0,103883.09,904
+62,Male,PhD,Not Married,175898.5,827.0,Medical,0.641699411,2.0,14388.88,908
+64,Other,PhD,Not Married,147694.5,492.0,Education,0.602987212,0.0,75591.55,910
+38,Non-Binary,PhD,Married,55560.38,357.0,Medical,0.312881095,0.0,20472.17,911
+33,Other,PhD,Not Married,160608.28,736.0,Home,0.131205137,1.0,29698.19,912
+71,Non-Binary,Bachelor,Married,59425.98,410.0,Medical,0.464453426,2.0,1910.89,913
+53,Female,Master,Not Married,23147.71,411.0,Education,0.230892963,2.0,60370.74,918
+52,Non-Binary,PhD,Not Married,169837.25,430.0,Medical,0.653422111,0.0,4738.39,919
+36,Male,Associate,Not Married,172633.2,487.0,Debt Consolidation,0.639434859,1.0,38144.82,920
+37,Non-Binary,Associate,Married,128126.26,774.0,Home,0.883964358,1.0,54016.67,921
+74,Female,Associate,Married,55764.51,663.0,Debt Consolidation,0.888480587,1.0,2529.3,922
+35,Male,Bachelor,Married,39840.23,503.0,Business,0.649342889,2.0,39317.95,923
+64,Female,Master,Married,26654.93,511.0,Education,0.294891834,2.0,39474.6,924
+66,Male,Associate,Not Married,205062.5,372.0,Medical,0.185623307,2.0,10288.37,926
+31,Male,Bachelor,Married,72172.93,542.0,Personal,0.724559443,0.0,101072.42,927
+48,Other,Associate,Not Married,44300.01,470.0,Education,0.406266716,1.0,24780.56,929
+71,Male,Associate,Not Married,147122.66,385.0,Personal,0.450212044,0.0,94061.22,932
+33,Other,Associate,Married,102768.79,410.0,Car,0.848941251,1.0,96676.82,935
+40,Female,Associate,Married,70672.07,342.0,Car,0.852600687,1.0,98285.32,936
+28,Non-Binary,Bachelor,Married,219185.52,499.0,Debt Consolidation,0.79979492,2.0,47058.5,938
+29,Non-Binary,Associate,Married,148872.06,325.0,Medical,0.689945153,1.0,26030.03,939
+49,Female,PhD,Not Married,107832.53,376.0,Debt Consolidation,0.15382769,1.0,6106.16,941
+25,Other,Master,Not Married,133441.62,319.0,Home,0.829766589,2.0,90744.86,943
+55,Other,High School,Not Married,165271.33,739.0,Medical,0.60654294,1.0,9669.98,944
+45,Female,Associate,Not Married,125093.08,734.0,Home,0.675510524,0.0,6686.32,947
+70,Female,PhD,Not Married,107051.35,506.0,Debt Consolidation,0.122497205,0.0,69691.13,948
+75,Non-Binary,Bachelor,Not Married,151966.2,341.0,Medical,0.601402679,2.0,54359.67,950
+45,Male,PhD,Not Married,131722.28,710.0,Education,0.216877252,1.0,47395.96,951
+53,Other,Bachelor,Married,46356.67,822.0,Debt Consolidation,0.75840286,1.0,50241.98,952
+25,Non-Binary,PhD,Married,46726.95,574.0,Home,0.62182489,1.0,36707.44,954
+75,Male,Bachelor,Married,91752.69,747.0,Business,0.424157714,0.0,30478.39,955
+77,Male,Master,Not Married,51974.03,668.0,Car,0.576834876,2.0,13046.21,956
+67,Male,High School,Married,164379.8,519.0,Education,0.185960442,1.0,88094.46,957
+45,Female,Associate,Not Married,64951.56,531.0,Car,0.11353024,2.0,10400.41,958
+54,Non-Binary,Associate,Not Married,206048.8,742.0,Home,0.315704007,0.0,111158.66,960
+58,Male,Bachelor,Married,64555.39,351.0,Business,0.755741602,2.0,30685.75,961
+53,Non-Binary,Associate,Not Married,126667.38,675.0,Personal,0.89948024,2.0,13871.92,962
+44,Other,Bachelor,Married,108548.14,562.0,Personal,0.269145006,1.0,58940.83,963
+71,Female,Associate,Married,26449.27,566.0,Medical,0.312136593,2.0,88995.41,964
+34,Other,High School,Not Married,184985.88,658.0,Personal,0.63028783,0.0,36987.93,965
+26,Other,High School,Not Married,36870.93,616.0,Home,0.872358908,2.0,74057.82,966
+37,Non-Binary,High School,Not Married,151353.76,345.0,Education,0.736088226,2.0,62869.43,969
+45,Male,Bachelor,Not Married,74574.73,680.0,Personal,0.881950547,1.0,28608.32,971
+65,Non-Binary,PhD,Not Married,24782.26,417.0,Business,0.871482587,2.0,17968.43,972
+46,Male,Associate,Married,170799.98,415.0,Education,0.230983166,0.0,60698.37,973
+30,Female,High School,Married,132367.48,559.0,Personal,0.3395385,1.0,78687.62,974
+63,Other,Bachelor,Married,193859.85,374.0,Medical,0.180123998,2.0,53451.1,975
+52,Female,Bachelor,Married,190845.35,779.0,Car,0.317374079,1.0,100184.52,976
+78,Other,Bachelor,Married,195335.13,604.0,Business,0.752764632,0.0,15880.75,977
+35,Female,Associate,Not Married,91020.39,665.0,Business,0.170717574,1.0,32178.39,979
+68,Male,PhD,Not Married,184740.31,822.0,Car,0.37378042,0.0,98208.63,980
+64,Non-Binary,Bachelor,Not Married,60283.29,737.0,Home,0.603746876,2.0,3589.68,982
+42,Non-Binary,Master,Married,197718.98,514.0,Home,0.432928757,1.0,4247.19,983
+73,Male,PhD,Married,38232.71,839.0,Debt Consolidation,0.756679207,2.0,30315.06,986
+47,Female,Associate,Married,102112.49,666.0,Business,0.325181842,2.0,103102.13,987
+76,Other,Associate,Not Married,207297.08,837.0,Debt Consolidation,0.145300446,1.0,104889.32,989
+62,Female,PhD,Married,64382.73,353.0,Business,0.19630252,2.0,3204.96,990
+72,Non-Binary,Associate,Married,202298.54,766.0,Car,0.843010737,0.0,70418.51,992
+35,Female,Associate,Not Married,155424.76,572.0,Medical,0.68549819,1.0,90308.27,997
+49,Female,Master,Married,37906.42,713.0,Debt Consolidation,0.239170965,2.0,14561.24,998
+64,Non-Binary,Master,Not Married,99583.47,799.0,Education,0.388972847,0.0,23614.16,999
