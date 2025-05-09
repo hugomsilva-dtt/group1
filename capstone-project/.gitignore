@@ -1,7 +1,9 @@
-# Environment variables
+# Environment variables and secrets
 .env
 *.env
 .env.*
+.env.local
+.env.*.local
 
 # Python
 __pycache__/
@@ -21,3 +23,7 @@ build/
 venv/
 env/
 ENV/
+
+# Logs and databases
+*.log
+*.sqlite
