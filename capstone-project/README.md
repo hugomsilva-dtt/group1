@@ -1,23 +1,100 @@
-# Capstone Project
+# Loan Risk Analysis Dashboard
 
-This is a Python capstone project that utilizes various APIs and libraries for advanced functionality.
+An interactive web application for analyzing loan data and calculating risk ratings.
 
-## Setup
+## Features
 
-1. Install dependencies:
+- Interactive data visualization dashboard
+- Risk rating calculator with machine learning
+- Currency conversion (EUR to USD)
+- Data filtering and analysis
+- CSV export functionality
+
+## Prerequisites
+
+- Python 3.8+
+- Windows/Linux/Mac OS
+- Excel files with loan data
+
+## Project Structure
+
+```
+capstone-project/
+├── input/              # Input data directory
+│   ├── Dataset1.xlsx
+│   └── Dataset2.xlsx
+├── output/             # Processed data output
+├── src/               
+│   ├── app.py         # Streamlit dashboard
+│   ├── main.py        # Data processing script
+│   └── utils/         # Helper functions
+├── .env.template      # Environment template
+└── requirements.txt   # Project dependencies
+```
+
+## Quick Start
+
+1. **Clone and Setup**
    ```bash
+   git clone <repository-url>
+   cd capstone-project
+   python -m venv venv
+   .\venv\Scripts\activate
    pip install -r requirements.txt
    ```
 
-## Environment Setup
+2. **Environment Configuration**
+   ```bash
+   copy .env.template .env
+   # Edit .env with your configurations
+   ```
 
-1. Copy `.env.template` to `.env`
-2. Fill in your API keys and credentials
-3. Never commit `.env` file to the repository
+3. **Run Application**
+   ```bash
+   python -m streamlit run app.py 
+   ```
 
-## Run
+## Data Requirements
 
-Execute the main script:
+Required Excel columns:
+- Age
+- Gender
+- Education_Level
+- Income (EUR/USD)
+- Credit_Score
+- Loan_Purpose
+- Debt_to_Income_Ratio
+- Loan_Amount (EUR/USD)
+
+## Usage
+
+### Dashboard
+1. Upload Excel file through web interface
+2. Use sidebar filters for data analysis
+3. View interactive visualizations
+4. Download processed data as CSV
+
+### Risk Calculator
+1. Input loan application details
+2. Get instant risk assessment
+3. View detailed risk analysis
+
+## Development
+
+### Running Tests
 ```bash
-python src/main.py
+pytest tests/
 ```
+
+### Adding New Features
+1. Create feature branch
+2. Implement changes
+3. Add tests
+4. Submit pull request
+
+## Troubleshooting
+
+Common issues and solutions:
+- **Streamlit not found**: Activate virtual environment
+- **Data loading errors**: Check input file format
+- **Currency conversion issues**: Verify amount format
